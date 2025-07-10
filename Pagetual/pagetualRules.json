@@ -6442,4 +6442,14 @@
     "pageElement": "div.products-catalog__list",
     "action": 2
 }
+    {
+    "name": "EpicentrK ",
+    "author": "epicentrkScraper",
+    "url": "^https?://epicentrk\\.ua/*$",
+    "example": "https://epicentrk.ua/ua/shop/germetiki-i-silikony/",
+    "nextlink": "div.pagination a.pagination__btn--next",
+    "replaceElement": "div.product-card",
+    "pageElement": "div.products-catalog__list",
+    "action": 1
+}
 ]
